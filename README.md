@@ -1,4 +1,4 @@
-[![MasterHead](https://themachineageofmusic.files.wordpress.com/2019/10/jun26.gif)]
+![MasterHead](https://themachineageofmusic.files.wordpress.com/2019/10/jun26.gif)
 <h1 align="center">Hi 👋, I'm Abdullahi Labaran</h1>
 <h3 align="center">An Undergraduate AI/DS Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
