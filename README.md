@@ -1,7 +1,7 @@
 ![Blue and Purple Gradient Cyberpunk Technology Twitter Header](https://github.com/user-attachments/assets/b43ac61d-a0a1-470c-8495-d674c2d47b62)
 
 <h1 align="center">Hello there; welcome 👋, I'm Abdullahi Labaran</h1>
-<h3 align="center">An Undergraduate AI/DS Engineer</h3>
+<h3 align="center">An AI&DS Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baffxy&label=Profile%20views&color=0e75b6&style=flat" alt="baffxy" /> </p>
