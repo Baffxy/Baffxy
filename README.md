@@ -6,9 +6,9 @@
 
 # Hey, I'm Abdullahi 👋
 
-### AI Engineer · Applied ML · Autonomous Systems
+### AI Engineer · Applied AI · Autonomous Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+AI+systems+that+do+more+than+predict.;Real-time+data.+Intelligent+decisions.+Useful+systems.;From+ideas+%E2%86%92+models+%E2%86%92+working+products.;Always+building+something." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+AI+systems+that+do+more+than+predict.;Real-time+data.+Intelligent+decisions.+Useful+systems.;From+ideas+%E2%86%92+models+%E2%86%92+working+products." alt="Typing animation"/>
 
 <br>
 
@@ -25,9 +25,20 @@
 
 I like building things that **actually do something**.
 
-My work is mostly around AI, machine learning, real-time data, and autonomous systems — especially where software has to keep up with information that is constantly changing.
+I build AI-powered systems that process real-world information, make decisions, and turn those decisions into useful actions.
+
+My work is mostly around **AI, machine learning, real-time data, and autonomous systems** — especially where software has to keep up with information that is constantly changing.
 
 Right now, I'm building, experimenting, breaking things, fixing them, and learning by shipping.
+
+---
+
+## 🎯 Currently focused on
+
+* Building production-ready AI applications with Python, FastAPI & PostgreSQL
+* Exploring autonomous agents and real-time intelligent systems
+* Strengthening deployment, cloud infrastructure & MLOps practices
+* Turning AI/ML experiments into reliable, usable products
 
 ---
 
@@ -39,11 +50,11 @@ Right now, I'm building, experimenting, breaking things, fixing them, and learni
 
 ### 🛰️ DroxenBot
 
-**An autonomous intelligence system for high-velocity digital markets.**
+**An autonomous real-time intelligence system for high-velocity digital markets.**
 
-DroxenBot watches a constantly changing stream of on-chain and market data, filters the noise, finds signals, and turns them into real-time intelligence.
+DroxenBot processes constantly changing on-chain and market data, filters noisy signals, evaluates events, and turns them into real-time intelligence.
 
-`Autonomous AI` · `Real-Time Data` · `Blockchain Intelligence`
+`Autonomous Systems` · `Real-Time Data` · `Machine Learning` · `Blockchain Intelligence`
 
 <a href="https://github.com/Baffxy/DroxenBot-Research">
 <img src="https://img.shields.io/badge/Explore%20DroxenBot%20→-7C3AED?style=for-the-badge"/>
@@ -57,11 +68,21 @@ DroxenBot watches a constantly changing stream of on-chain and market data, filt
 
 The goal is simple: make the interview process smarter — with AI sitting inside a proper application rather than living in a notebook or demo.
 
-`AI` · `FastAPI` · `PostgreSQL` · `Docker`
+`Applied AI` · `FastAPI` · `PostgreSQL` · `Docker`
 
 <a href="https://github.com/Baffxy/ai-interview-copilot">
 <img src="https://img.shields.io/badge/Explore%20the%20Copilot%20→-2563EB?style=for-the-badge"/>
 </a>
+
+---
+
+## 🔭 What I like building
+
+* 🤖 Autonomous AI agents & intelligent systems
+* ⚡ Real-time data processing & decision systems
+* 🧠 Applied machine learning & AI applications
+* 🔌 AI-powered APIs and backend systems
+* 📊 Data-driven automation
 
 ---
 
@@ -79,17 +100,26 @@ The goal is simple: make the interview process smarter — with AI sitting insid
 
 ---
 
+## 📚 Currently learning
+
+* Production AI & ML systems
+* LLM application development
+* Autonomous agent architectures
+* Cloud deployment & MLOps
+* Real-time data engineering
+
+---
+
 <div align="center">
- 
 
 ## 📈 A little GitHub activity
- 
+
 <img src="https://streak-stats.demolab.com?user=baffxy&hide_border=true&theme=transparent" alt="GitHub streak"/>
 
 </div>
 
 ---
- 
+
 <div align="center">
 
 ### 🌌 Always building. Always learning.
