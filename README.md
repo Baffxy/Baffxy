@@ -1,52 +1,116 @@
-![Blue and Purple Gradient Cyberpunk Technology Twitter Header](https://github.com/user-attachments/assets/b43ac61d-a0a1-470c-8495-d674c2d47b62)
+<div align="center">
 
-<h1 align="center">Hello there; welcome 👋, I'm Abdullahi Labaran</h1>
-<h3 align="center">AI Engineer | Machine Learning & Data Science | Aspiring PhD Researcher</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://github.com/user-attachments/assets/b43ac61d-a0a1-470c-8495-d674c2d47b62" width="100%" alt="Abdullahi Labaran"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baffxy&label=Profile%20views&color=0e75b6&style=flat" alt="baffxy" /> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/_baffxy" target="blank"><img src="https://img.shields.io/twitter/follow/_baffxy?logo=twitter&style=for-the-badge" alt="_baffxy" /></a> </p>
+# Hey, I'm Abdullahi 👋
 
+### AI Engineer · Applied ML · Autonomous Systems
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-baffxy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahi-labaran)](https://www.linkedin.com/in/abdullahi-labaran) [![Twitter Badge](https://img.shields.io/badge/-@_baffxy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_baffxy)](https://twitter.com/_baffxy)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+AI+systems+that+do+more+than+predict.;Real-time+data.+Intelligent+decisions.+Useful+systems.;From+ideas+%E2%86%92+models+%E2%86%92+working+products.;Always+building+something." alt="Typing animation"/>
 
-I’m an AI & Data Science Engineer passionate about building intelligent systems and real-world machine learning applications.
+<br>
 
-I work primarily with Python, Machine Learning, and Data Analytics, and I enjoy transforming ideas into practical, scalable solutions. Alongside development, I create technical content, contribute to open-source projects, and actively prepare for graduate research in Artificial Intelligence and Data Science.
+[![GitHub](https://img.shields.io/badge/GitHub-baffxy-181717?style=for-the-badge\&logo=github)](https://github.com/baffxy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Labaran-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/abdullahi-labaran)
+[![X](https://img.shields.io/badge/X-@_baffxy-000000?style=for-the-badge\&logo=x)](https://x.com/_baffxy)
+[![Profile Views](https://komarev.com/ghpvc/?username=baffxy\&label=VISITORS\&color=7C3AED\&style=for-the-badge)](https://github.com/baffxy)
 
-
-**Quick facts about me:**
-
-- 😊 Pronouns: He/Him
-- 🎓 Background: Computer Engineering (AI & Data Science)
-- 🌱 Currently learning: Advanced Machine Learning, Deep Learning, and Cloud AI systems
-- 🤝 Open to: Research collaborations, open-source projects, and AI/ML opportunities
- 
- *🧠 Research interests:*
-- Machine Learning & Deep Learning
-- Intelligent & Reliable AI Systems
-- Datata-Driven Decision System
-- NLP and Computer Vision
+</div>
 
 ---
 
- 👨‍💻 Explore my projects: [https://linktr.ee/baffxy](https://linktr.ee/baffxy)
+## 🧠 What I'm about
 
- **Contact**
-- 📫 Email: **baffahlabaran01@gmail.com**
-- 💼 LinkedIn: [**abdullahi-labaran**](https://linkedin.com/in/abdullahi-labaran)
-  
+I like building things that **actually do something**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_baffxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_baffxy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullahi-labaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahi-labaran" height="30" width="40" /></a>
-<a href="https://medium.com/@baffxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baffxy" height="30" width="40" /></a>
-</p>
+My work is mostly around AI, machine learning, real-time data, and autonomous systems — especially where software has to keep up with information that is constantly changing.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Right now, I'm building, experimenting, breaking things, fixing them, and learning by shipping.
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baffxy&" alt="baffxy" /></p>
+<div align="center">
+
+## ⚡ Things I'm building
+
+</div>
+
+### 🛰️ DroxenBot
+
+**An autonomous intelligence system for high-velocity digital markets.**
+
+DroxenBot watches a constantly changing stream of on-chain and market data, filters the noise, finds signals, and turns them into real-time intelligence.
+
+`Autonomous AI` · `Real-Time Data` · `Blockchain Intelligence`
+
+<a href="https://github.com/Baffxy/DroxenBot-Research">
+<img src="https://img.shields.io/badge/Explore%20DroxenBot%20→-7C3AED?style=for-the-badge"/>
+</a>
+
+---
+
+### 🎙️ AI Interview Copilot
+
+**An AI-powered interview platform I'm building from the ground up.**
+
+The goal is simple: make the interview process smarter — with AI sitting inside a proper application rather than living in a notebook or demo.
+
+`AI` · `FastAPI` · `PostgreSQL` · `Docker`
+
+<a href="https://github.com/Baffxy/ai-interview-copilot">
+<img src="https://img.shields.io/badge/Explore%20the%20Copilot%20→-2563EB?style=for-the-badge"/>
+</a>
+
+---
+
+<div align="center">
+
+## 🛠️ My toolbox
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,sklearn,pytorch,tensorflow,git,github,vscode,linux" />
+
+<br><br>
+
+<sub>Tools change. Building useful things doesn't.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 A little GitHub activity
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=baffxy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baffxy&layout=compact&hide_border=true&theme=transparent"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=baffxy&hide_border=true&theme=transparent" alt="GitHub streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Always building. Always learning.
+
+<br>
+
+<a href="https://linktr.ee/baffxy">
+<img src="https://img.shields.io/badge/Explore%20More%20→-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="mailto:baffahlabaran01@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=100&section=footer"/>
+
+</div>
