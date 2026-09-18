@@ -21,6 +21,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="middle">
+
 ## 🧠 What I'm about
 
 I like building things that **actually do something**.
@@ -30,6 +34,20 @@ I build AI-powered systems that process real-world information, make decisions, 
 My work is mostly around **AI, machine learning, real-time data, and autonomous systems** — especially where software has to keep up with information that is constantly changing.
 
 Right now, I'm building, experimenting, breaking things, fixing them, and learning by shipping.
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  width="400"
+  alt="Developer coding animation"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
