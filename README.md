@@ -88,7 +88,7 @@ The goal is simple: make the interview process smarter — with AI sitting insid
 
 `Applied AI` · `FastAPI` · `PostgreSQL` · `Docker`
 
-<a href="https://github.com/Baffxy/ai-interview-copilot">
+<a href="https://github.com/Baffxy/ai-interview-copilot-demo">
 <img src="https://img.shields.io/badge/Explore%20the%20Copilot%20→-2563EB?style=for-the-badge"/>
 </a>
 
