@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b43ac61d-a0a1-470c-8495-d674c2d47b62" width="100%" alt="Abdullahi Labaran"/>
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/67884d2c-c640-4796-a474-40626d4d003d" />
 
 <br>
 
