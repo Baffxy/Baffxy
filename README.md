@@ -12,10 +12,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-baffxy-181717?style=for-the-badge\&logo=github)](https://github.com/baffxy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Labaran-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/abdullahi-labaran)
-[![X](https://img.shields.io/badge/X-@_baffxy-000000?style=for-the-badge\&logo=x)](https://x.com/_baffxy)
-[![Profile Views](https://komarev.com/ghpvc/?username=baffxy\&label=VISITORS\&color=7C3AED\&style=for-the-badge)](https://github.com/baffxy)
+[![Website](https://img.shields.io/badge/Website-baffxy.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://baffxy.com)
+[![X](https://img.shields.io/badge/X-@_baffxy-000000?style=for-the-badge&logo=x)](https://x.com/_baffxy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Labaran-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullahi-labaran)
+[![Profile Views](https://komarev.com/ghpvc/?username=baffxy&label=VISITORS&color=7C3AED&style=for-the-badge)](https://github.com/baffxy)
 
 </div>
 
